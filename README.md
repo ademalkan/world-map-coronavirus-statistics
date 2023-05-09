@@ -2,12 +2,26 @@
 
 ## Live Project URL
 
+World Map
 ```bash
 https://main--brilliant-longma-b7e432.netlify.app/
+```
+
+Country Detail
+
+```bash
+https://main--brilliant-longma-b7e432.netlify.app/niger
 https://main--brilliant-longma-b7e432.netlify.app/turkey
 https://main--brilliant-longma-b7e432.netlify.app/spain
 ```
 
+Country Detail Error
+
+```bash
+https://main--brilliant-longma-b7e432.netlify.app/randomCountry
+https://main--brilliant-longma-b7e432.netlify.app/aaaaaaaa
+https://main--brilliant-longma-b7e432.netlify.app/bbbbbbb
+```
 
 
 ## Kurulum
