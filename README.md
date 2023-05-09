@@ -1,5 +1,15 @@
 # World Map Coronavirus Statistics Setup
 
+## Live Project URL
+
+```bash
+https://main--brilliant-longma-b7e432.netlify.app/
+https://main--brilliant-longma-b7e432.netlify.app/turkey
+https://main--brilliant-longma-b7e432.netlify.app/spain
+```
+
+
+
 ## Kurulum
 
 1. Aşağıdaki kod ile projeyi istediğiniz bir dizine klonlayın.
