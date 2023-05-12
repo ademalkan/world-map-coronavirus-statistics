@@ -68,18 +68,23 @@ Uygulama bir dünya haritası üzerinde açılıyor ve üzerine tıklanan ülken
 
 Dünya haritası üzerinden herhangi bir ülkenin üzerine tıklandığında bu şekilde bilgileri gelmektedir.
 
-![Ekran görüntüsü 2023-05-09 213506](https://github.com/ademalkan/world-map-coronavirus-statistics/assets/43451577/b1bff811-e1ce-4607-9987-6c6ad316d35f)
+![Ekran görüntüsü 2023-05-12 111827](https://github.com/ademalkan/world-map-coronavirus-statistics/assets/43451577/f292bff5-d065-4d39-8859-12ebce9e75a9)
 
-![Ekran görüntüsü 2023-05-09 213550](https://github.com/ademalkan/world-map-coronavirus-statistics/assets/43451577/a1998b84-d74e-47d5-b84c-699897ad8d60)
+![Ekran görüntüsü 2023-05-12 111706](https://github.com/ademalkan/world-map-coronavirus-statistics/assets/43451577/ac53a3a7-e197-4080-b061-55acf0518654)
+
+![Ekran görüntüsü 2023-05-12 111733](https://github.com/ademalkan/world-map-coronavirus-statistics/assets/43451577/8ace6648-a33d-443a-a141-78bf637f6b60)
+
+![Ekran görüntüsü 2023-05-12 111757](https://github.com/ademalkan/world-map-coronavirus-statistics/assets/43451577/f010b760-b687-44a9-b501-5a92e6ed519e)
+
 
 
 Ülke detay url'inde eğer o ülkeye ait veri yoksa görüntülenen ekran 
 
-![Ekran görüntüsü 2023-05-09 203920](https://github.com/ademalkan/world-map-coronavirus-statistics/assets/43451577/879fa3a8-343c-4a8c-8317-f7395a61c1d6)
+![Ekran görüntüsü 2023-05-12 111901](https://github.com/ademalkan/world-map-coronavirus-statistics/assets/43451577/56ff1dbf-224c-4a75-9487-67aba90076ee)
 
 Ülke detay url'inde ülkelere ait gelen verilerin görünümü
 
-![Ekran görüntüsü 2023-05-09 203955](https://github.com/ademalkan/world-map-coronavirus-statistics/assets/43451577/7799d07c-8206-4140-a085-0264b5dbf196)
+![Ekran görüntüsü 2023-05-12 111926](https://github.com/ademalkan/world-map-coronavirus-statistics/assets/43451577/5bfe6b96-561a-4984-acf1-b777eb76ec60)
 
-![Ekran görüntüsü 2023-05-09 213428](https://github.com/ademalkan/world-map-coronavirus-statistics/assets/43451577/b57e76b4-7ed0-48d8-8f7a-5c40861dbf5b)
+![Ekran görüntüsü 2023-05-12 111951](https://github.com/ademalkan/world-map-coronavirus-statistics/assets/43451577/5456a4cf-b557-47b5-b0d7-91424f86f964)
 
